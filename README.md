@@ -8,6 +8,7 @@ Open a terminal and go to this directory. You have two options.
 
 ## INSTALL
 
+- If you know what you are doing it's better to install it manually instead of using the 'install.sh' script. Go to Reflutter GitHub (https://github.com/Impact-I/reFlutter) and install it following the instructions.
 - Execute 'install.sh' to install Reflutter and AntiSplit-X. Reflutter will be installed using pip3 and the script will add Python to your path so we avoid problems.
 - After the installation you need to change the proxy (Burp) port to 8083 and enable invisible proxy. Don't forget to renew your IP tables and check the proxy configuration in the device (in the wifi settings) too!
 
@@ -30,3 +31,7 @@ NOTE 2: If the 'refutter' command is not found, you will need to put into the pa
         #source ~/.zshrc
         #If the output contains 'bash'
         #source ~/.bashrc
+        
+        
+        
+Thanks a lot to @Impact-I and to whoever is the Anti-SplitX developer.
