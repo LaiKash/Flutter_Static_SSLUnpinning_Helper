@@ -4,7 +4,7 @@ NC='\033[0m'
 echo -e "\n${BLUE}Installing Reflutter${NC}\n"
 
 
-pip3 install reflutter --user
+pip3 install reflutter==0.6.8
 
 
 
